@@ -1,0 +1,12 @@
+<?php
+
+//profile page
+
+class Profile extends AView{
+
+    public function displayContent()
+    {
+        
+    }
+    
+}

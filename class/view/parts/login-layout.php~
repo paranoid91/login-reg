@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <meta name="description" content="Registration & Login Form" />
+    <meta name="keywords" content="Registration, Login" />
+    <meta name="author" content="Leri Bobokhidze" />
+    <!-- google fonts -->
+    <link href='https://fonts.googleapis.com/css?family=Noto+Sans' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/main.css" />
+    <title>Welcome | Registration & Login Form</title>
+    <link rel="icon" type="image/png" href="img/favicon.ico" />
+</head>
+<body>
+<div id="wrapper">
+    <div class="content-main">
+        <div class="header-slogan">
+            <h1>WELCOME TO OUR SITE</h1>
+        </div>
+        <div class="flags">
+            <a href="" title="english">
+                <img src="img/usa-flag.png" alt="usa">
+            </a>
+            <a href="" title="русский язык">
+                <img src="img/rus-flag.png" alt="rus">
+            </a>
+        </div>

@@ -1,0 +1,22 @@
+<h1 class="top-form-headline">Sign In</h1>
+<div class="form-wrapper">
+    <div class="form-items">
+        <form action="" name="login-form" method="POST" enctype="application/x-www-form-urlencoded" accept-charset="UTF-8">
+            <div class="input-element">
+                <input type="text" name="mail" placeholder="Email" required/>
+            </div>
+            <div class="input-element">
+                <input type="password" name="pass" placeholder="Password" required/>
+            </div>
+            <div class="remember-element">
+                <label><input type="checkbox" name="remember">Remember Me</label>
+            </div>
+            <div class="submit-element">
+                <input type="submit" value="LOGIN" name="login"/>
+            </div>
+            <div class="regist-link">
+                <p>Not registered? <a href="registration.html">Sign Up</a></p>
+            </div>
+        </form>
+    </div>
+</div>
